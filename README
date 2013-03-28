@@ -2,7 +2,7 @@ A simple tool to help deciding what to research next in FreeCiv.
 
 This tool is an experiment I made while playing a FreeCiv marathon. It shows (a part of) the whole research tree. You can inspect each choice to see what it would yield. You can also specify a 'goal' and see the exact path of all necessary research still to do. Use the 'h' key to see all other commands like zooming and saving/loading often used positions.
 
-<insert youtube link>
+Here is a link to see it in action: http://www.youtube.com/watch?v=5mhuMOAQK0o
 
 Disclaimer: the images and rulesets are taken from FreeCiv and are not mine.
 
